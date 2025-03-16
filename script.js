@@ -66,5 +66,3 @@ document.addEventListener('DOMContentLoaded', function() {
     // Iniciar animação para elementos já visíveis
     animateOnScroll();
 });
-
-//visíveis Iniciar animação para elementos já 
